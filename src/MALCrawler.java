@@ -5,7 +5,7 @@ import java.util.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
-public class UnlicensedMovies {
+public class MALCrawler {
 
 	private static class Args {
 		public int startRank = 0;
