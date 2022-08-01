@@ -6,9 +6,9 @@
 	"configurations": [
 		{
 			"type": "java",
-			"name": "Launch UnlicensedMovies",
+			"name": "Launch MLACrawler",
 			"request": "launch",
-			"mainClass": "UnlicensedMovies",
+			"mainClass": "MALCrawler",
 			"projectName": "MALCrawler_689a2a4d",
 			"args": "${command:SpecifyProgramArgs}"
 		},
